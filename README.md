@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @EllenChumbe
-- 👀 I’m interested in Product Management and Data analytics.
-- 🌱 I’m currently learning A/B testing.
+- 👀 Data Analyst, interested in Data Engineering and Product Management.
 - 💞️ I’m looking to collaborate on digital products launching.
 - 📫 How to reach me https://www.linkedin.com/in/ellenchumbe/
 
